@@ -1,0 +1,4 @@
+src/main/java/com/example/githubapiconsumer
+src/main/java/com/example/githubapiconsumer/service
+src/main/java/com/example/githubapiconsumer/controller
+src/main/java/com/example/githubapiconsumer/config
